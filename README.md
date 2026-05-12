@@ -30,23 +30,30 @@ Real-time web platform built with FastAPI, WebSockets and Google Sheets integrat
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img 
+    width="100%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mreixm&theme=github_dark"
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mreixm&theme=github_dark"
-  />
+<table align="center">
+<tr>
+<td>
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mreixm&theme=github_dark"
+/>
+</td>
 
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mreixm&theme=github_dark"
-  />
-</p>
+<td>
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mreixm&theme=github_dark"
+/>
+</td>
+</tr>
+</table>
 
 ---
 
