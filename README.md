@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Matheus 👋
 
-<!--
-**mreixm/mreixm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class Matheus:
+    role = "Backend Developer"
+    focus = ["Python", "APIs", "Automation", "Data Engineering"]
+```
 
-Here are some ideas to get you started:
+💻 Backend Developer focused on building APIs, automation tools and scalable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## 📌 Featured Project
+
+### 🚀 Alpha Fitness Platform
+
+Real-time web platform built with FastAPI, WebSockets and Google Sheets integration.
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mreixm&theme=github_dark"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mreixm&theme=github_dark"
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mreixm&theme=github_dark"
+  />
+</p>
+
+---
+
+## 📫 Contact
+
+<p>
+  <a href="https://linkedin.com/in/matheus-reis-machado-475708223">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
